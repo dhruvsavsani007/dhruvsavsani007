@@ -10,7 +10,7 @@ I am a dedicated Computer Science student at LD College of Engineering, with a s
 
 ## Skills
 
-- **Programming Languages:** Python, C++, JavaScript, HTML, CSS
+- **Programming Languages:** Python, C/C++, Java
 - **Frameworks and Libraries:** TensorFlow, Keras, Django
 - **Tools and Platforms:** Git, GitHub, Jupyter, MySQL
 - **Other Skills:** Data Analysis, Machine Learning, Deep Learning, Web Development(Backend)
